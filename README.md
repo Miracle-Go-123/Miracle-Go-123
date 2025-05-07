@@ -42,7 +42,7 @@
         <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,bitbucket"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Idea:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE:</td>
         <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,phpstorm,webstorm,eclipse,visualstudio,sublime"/></td>
     </tr>
     <tr>
