@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,jquery,tailwindcss,react,next,vue,nuxtjs,vuetify,mui,figma"/></td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,jquery,tailwindcss,react,redux,mobx,next,vue,nuxtjs,vuetify,mui,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Mobile:</td>
@@ -27,12 +27,16 @@
         <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mariadb,mongodb,sqlite"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & Scraping:</td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=crewai,chatgpt"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,gcp,githubactions,gitlarun"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud Service:</td>
-        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,digitalocean"/></td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,digitalocean,supabase,vercel,render"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
@@ -44,11 +48,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE:</td>
-        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,phpstorm,webstorm,eclipse,visualstudio,sublime"/></td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,phpstorm,webstorm,pycharm,visualstudio,sublime,androidstudio,xcode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq,grafana,bash"/></td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq,grafana,bash,postman,slack"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
