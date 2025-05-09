@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,gcp,githubactions,gitlarun"/></td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud Service:</td>
