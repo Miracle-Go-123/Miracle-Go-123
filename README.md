@@ -64,5 +64,10 @@
 
 | Name                                                                                      | Description                                                 |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_ | Generate a beautiful Readme.md for your repository.         |
+| _[Eternity Radio](https://github.com/Miracle-Go-123/eternity-radio)_ | Mobile-friendly web platform for streaming and managing radio content         |
+| _[Immigration Service (Private)](https://github.com/Miracle-Go-123/vizafi)_ | AI-driven platform to automate the process of verify immigration packet before submission         |
+| _[Serve Anywhere(Private)](https://github.com/Miracle-Go-123/serve-command)_ | A responsive web-based platform for syncing real-time online/offline data.         |
+| _[Medimee (Private)](https://github.com/Miracle-Go-123/medmee)_ | Laravel-base web application for plastic surgery, reivew and community         |
+| _[Form Filler](https://github.com/Miracle-Go-123/form-filler)_ | Automated tool for filling in PDF document with given data using openAI         |
+| _[USCIS FORM Validator](https://github.com/Miracle-Go-123/uscis-form-validator)_ | FastAPI Service for analyzing immigration packet to verify the correctness of USCIS form version         |
 
