@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to my Github profile.</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+a+Full-Stack+Web+|+Mobile+Developer+...+;I'm+also+Data+Scientist+;+)](https://git.io/typing-svg)
-
+<h1 align="center">Hi, Welcome 👋.</h1>
 
 <h2> 🛠 &nbsp; Tech Stack</h2>
 
